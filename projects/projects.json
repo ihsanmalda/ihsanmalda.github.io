@@ -43,7 +43,7 @@
     "name": "Investment Opportunity Potential Map Application",
     "desc": "Full-Stack project.",
     "image": "https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg",
-    "category": "mern",
+    "category": "webapp",
     "links": {
       "view": "https://petapotensi.dpmptsp.kamparkab.go.id/",
       "code": "#"
@@ -53,19 +53,9 @@
     "name": "Public Service Mall (MPP)",
     "desc": "Full-Stack project.",
     "image": "https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg",
-    "category": "mern",
+    "category": "webapp",
     "links": {
       "view": "https://mpp.kamparkab.go.id/",
-      "code": "#"
-    }
-  },
-  {
-    "name": "ResumeGen",
-    "desc": "Full-Stack project.",
-    "image": "https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg",
-    "category": "mern",
-    "links": {
-      "view": "https://resumegenx.netlify.app/",
       "code": "#"
     }
   }
