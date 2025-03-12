@@ -2,7 +2,7 @@
   {
     "name": "RSUD Bangkinang Web Portal",
     "desc": "Full-Stack project.",
-    "image": "https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg",
+    "image": "bg-ok",
     "category": "webapp",
     "links": {
       "view": "https://rsudbangkinang.kamparkab.go.id/",
@@ -12,7 +12,7 @@
   {
     "name": "IT Ticketing Support System",
     "desc": "Full-Stack project.",
-    "image": "https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg",
+    "image": "bg-ok",
     "category": "webapp",
     "links": {
       "view": "https://app.rsudbangkinang.kamparkab.go.id/simrs/",
@@ -22,7 +22,7 @@
   {
     "name": "Hospital Management Information System (HIS)",
     "desc": "Full-Stack project.",
-    "image": "https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg",
+    "image": "bg-ok",
     "category": "webapp",
     "links": {
       "view": "#",
@@ -32,7 +32,7 @@
   {
     "name": "Legal Documentation and Information Network (JDIH)",
     "desc": "Full-Stack project.",
-    "image": "https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg",
+    "image": "bg-ok",
     "category": "webapp",
     "links": {
       "view": "https://jdih.kamparkab.go.id/",
@@ -42,7 +42,7 @@
   {
     "name": "Investment Opportunity Potential Map Application",
     "desc": "Full-Stack project.",
-    "image": "https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg",
+    "image": "bg-ok",
     "category": "webapp",
     "links": {
       "view": "https://petapotensi.dpmptsp.kamparkab.go.id/",
@@ -52,7 +52,7 @@
   {
     "name": "Public Service Mall (MPP)",
     "desc": "Full-Stack project.",
-    "image": "https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg",
+    "image": "bg-ok",
     "category": "webapp",
     "links": {
       "view": "https://mpp.kamparkab.go.id/",
