@@ -6,7 +6,7 @@
     "category": "webapp",
     "links": {
       "view": "https://rsudbangkinang.kamparkab.go.id/",
-      "code": "#"
+      "code": "javascript:void(0)"
     }
   },
   {
@@ -16,7 +16,7 @@
     "category": "webapp",
     "links": {
       "view": "https://app.rsudbangkinang.kamparkab.go.id/simrs/",
-      "code": "#"
+      "code": "javascript:void(0)"
     }
   },
   {
@@ -25,8 +25,8 @@
     "image": "bg-ok",
     "category": "webapp",
     "links": {
-      "view": "#",
-      "code": "#"
+      "view": "javascript:void(0)",
+      "code": "javascript:void(0)"
     }
   },
   {
@@ -36,7 +36,7 @@
     "category": "webapp",
     "links": {
       "view": "https://jdih.kamparkab.go.id/",
-      "code": "#"
+      "code": "javascript:void(0)"
     }
   },
   {
@@ -46,7 +46,7 @@
     "category": "webapp",
     "links": {
       "view": "https://petapotensi.dpmptsp.kamparkab.go.id/",
-      "code": "#"
+      "code": "javascript:void(0)"
     }
   },
   {
@@ -56,7 +56,7 @@
     "category": "webapp",
     "links": {
       "view": "https://mpp.kamparkab.go.id/",
-      "code": "#"
+      "code": "javascript:void(0)"
     }
   }
 ]
