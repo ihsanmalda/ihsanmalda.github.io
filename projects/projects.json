@@ -1,0 +1,62 @@
+[
+  {
+    "name": "RSUD Bangkinang Web Portal",
+    "desc": "Full-Stack project.",
+    "image": "bg-ok",
+    "category": "webapp",
+    "links": {
+      "view": "javascript:void(0)",
+      "code": "javascript:void(0)"
+    }
+  },
+  {
+    "name": "IT Ticketing Support System",
+    "desc": "Full-Stack project.",
+    "image": "bg-ok",
+    "category": "webapp",
+    "links": {
+      "view": "javascript:void(0)",
+      "code": "javascript:void(0)"
+    }
+  },
+  {
+    "name": "Hospital Management Information System (HIS)",
+    "desc": "Full-Stack project.",
+    "image": "bg-ok",
+    "category": "webapp",
+    "links": {
+      "view": "javascript:void(0)",
+      "code": "javascript:void(0)"
+    }
+  },
+  {
+    "name": "Legal Documentation and Information Network",
+    "desc": "Full-Stack project.",
+    "image": "bg-ok",
+    "category": "webapp",
+    "links": {
+      "view": "javascript:void(0)",
+      "code": "javascript:void(0)"
+    }
+  },
+  {
+    "name": "Investment Opportunity Potential Map Application",
+    "desc": "Full-Stack project.",
+    "image": "bg-ok",
+    "category": "webapp",
+    "links": {
+      "view": "javascript:void(0)",
+      "code": "javascript:void(0)"
+    }
+  },
+  {
+    "name": "Web Portal",
+    "desc": "Full-Stack project.",
+    "image": "bg-ok",
+    "category": "webapp",
+    "links": {
+      "view": "javascript:void(0)",
+      "code": "javascript:void(0)"
+    }
+  }
+]
